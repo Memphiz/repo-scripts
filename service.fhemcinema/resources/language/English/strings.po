@@ -1,0 +1,97 @@
+# Kodi Media Center language file
+# Addon Name: MediathekView
+# Addon id: service.fhemcinema
+# Addon Provider: leo.moll@yeasoft.com
+msgid ""
+msgstr ""
+"Project-Id-Version: Kodi Addons\n"
+"Report-Msgid-Bugs-To: leo.moll@yeasoft.com\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Alex\n"
+"Language-Team: English (http://www.transifex.com/projects/p/xbmc-addons/language/en/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "#30001"
+msgid "General Settings"
+msgstr "General Settings"
+
+msgctxt "#30002"
+msgid "Daytime"
+msgstr "Daytime"
+
+msgctxt "#30010"
+msgid "Home Automation System"
+msgstr "Home Automation System"
+
+msgctxt "#30011"
+msgid "Host"
+msgstr "Host"
+
+msgctxt "#30012"
+msgid "Port"
+msgstr "Port"
+
+msgctxt "#30013"
+msgid "Delay command on Video/Audio Stopped"
+msgstr "Delay command on Video/Audio Stopped"
+
+msgctxt "#30014"
+msgid "Actions"
+msgstr "Actions"
+
+msgctxt "#30021"
+msgid "Enable Daytime Commands (only FHEM)"
+msgstr "Enable Daytime Commands (only FHEM)"
+
+msgctxt "#30022"
+msgid "From"
+msgstr "From"
+
+msgctxt "#30023"
+msgid "To"
+msgstr "To"
+
+msgctxt "#30031"
+msgid "On Startup"
+msgstr "On Startup"
+
+msgctxt "#30032"
+msgid "On Shutdown"
+msgstr "On Shutdown"
+
+msgctxt "#30033"
+msgid "Video Started"
+msgstr "Video Started"
+
+msgctxt "#30034"
+msgid "Video Paused"
+msgstr "Video Paused"
+
+msgctxt "#30035"
+msgid "Video Stopped"
+msgstr "Video Stopped"
+
+msgctxt "#30036"
+msgid "Audio Started"
+msgstr "Audio Started"
+
+msgctxt "#30037"
+msgid "Audio Paused"
+msgstr "Audio Paused"
+
+msgctxt "#30038"
+msgid "Audio Stopped"
+msgstr "Audio Stopped"
+
+msgctxt "#30039"
+msgid "System variable"
+msgstr "System variable"
+
+msgctxt "#30040"
+msgid "Ignore LiveTV"
+msgstr "Ignore LiveTV"
